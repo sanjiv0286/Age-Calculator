@@ -9,3 +9,6 @@ Let's Calculate your age
   <td><img src = "https://firebasestorage.googleapis.com/v0/b/tik-tok-dc867.appspot.com/o/age%2FWhatsApp%20Image%202021-05-08%20at%207.41.14%20PM.jpeg?alt=media&token=7eb02159-9eeb-4854-8385-192fb003f962" width="150" height="250"></td>
 </tr> 
  </table>
+<img src= "https://visitor-badge.laobi.icu/badge?page_id=sanjiv0286/Age-Calculator" alt="visitor badge"/> |  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sanjiv0286/Age-Calculator/main)
+#
+## Just follow☝️ me and Star⭐ my repository 
